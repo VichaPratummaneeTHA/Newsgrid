@@ -229,7 +229,7 @@ p {
 #showcase::before {
   content: '';
   position: absolute;
-  background: url('../img/featured.jpg') no-repeat center center/cover;
+  background: url('../img/premier_showcase.png') no-repeat top center/cover;
   top: 0;
   left: 0;
   width: 100%;
@@ -242,7 +242,7 @@ p {
   grid-template-columns: repeat(2, 1fr);
   justify-content: center;
   align-items: center;
-  height: 50vh;
+  height: 100vh;
 }
 
 #showcase .show-content {
